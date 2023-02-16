@@ -1,9 +1,6 @@
 # ReelPlaces
 
-<img src="https://img.shields.io/badge/Built%20by-Developers-yellowgreen"/>
-Anisha, Chris, Magdaline, Mathieu & Shah
-
-<br />Have you ever wandered around whilst on holiday or on your way to work and wondered what momentous and cringey movie scene was filmed on the patch of ground you stood on? 
+Have you ever wandered around whilst on holiday or on your way to work and wondered what momentous and cringey movie scene was filmed on the patch of ground you stood on? 
 
 For those Star Wars movie buffs scouring the Tunisian desert in search of Totooine or the wide-eyed tourist in central London who stumbles upon the multitude of filming locations, your answer is here.
 
@@ -68,19 +65,9 @@ It should include a map.
 
 As we completed the above, we started to build our product up feature by feature until we ended up with an app we were all proud of.
 
-## Tech Stack
 
-For this project we are using:
+<img src="https://img.shields.io/badge/Built%20by-Developers-yellowgreen"/>
 
-- [MongoDB](https://www.mongodb.com/) for the database.
-- [Express](https://expressjs.com/) web framework for Node.js.
-- [React Native](https://reactnative.dev/) for the frontend.
-- [Node](https://nodejs.org/en/) for the back-end.
-- [Jest](https://jestjs.io/) for testing.
-- [Mongoose](https://mongoosejs.com) to model objects in MongoDB.
-- [Prettier](https://prettier.io/) for formatting.
-
-## Contributors
 [Anisha Hirani](https://github.com/anisha-11) 
 
 [Chris Bailey](https://github.com/cbai123) 
