@@ -70,7 +70,7 @@ As we completed the above, we started to build our product up feature by feature
 <img width="500" alt="![1]" src="https://user-images.githubusercontent.com/106664404/219508178-caf3b388-bf8a-4625-aab8-b46069a34069.jpeg">
 
 
-<img src="https://img.shields.io/badge/Built%20by-Developers-yellowgreen"/>
+<img src="https://img.shields.io/badge/built%20by-developers-blueviolet"/>
 
 [Anisha Hirani](https://github.com/anisha-11) 
 
