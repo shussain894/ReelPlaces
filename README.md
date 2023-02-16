@@ -1,8 +1,13 @@
 # ReelPlaces
 
-Have you ever been curious to see where your favourite movies or TV series have been filmed?
+<img src="https://img.shields.io/badge/Built%20by-Developers-yellowgreen"/>
+Anisha, Chris, Magdaline, Mathieu & Shah
 
-ReelPlaces allows you to search for the location you are currently at using a dropdown menu, and shows you the top 20 movies that were filmed there. Those movies then give you further information such as, the release year, plot, stars and IMDb rating. With ReelPlaces, you can get access to a map which pinpoints the nearby filming locations and then you are ready to go and explore them!
+Have you ever wandered around whilst on holiday or on your way to work and wondered what momentous and cringey movie scene was filmed on the patch of ground you stood on? 
+
+For those Star Wars movie buffs scouring the Tunisian desert in search of Totooine or the wide-eyed tourist in central London who stumbles upon the multitude of filming locations, your answer is here.
+
+<img src="https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=Jest&logoColor=white"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"> <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge"> <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"><img src="https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"> 
 
 ## How to use ReelPlaces
 ### Install 
