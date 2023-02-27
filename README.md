@@ -6,6 +6,8 @@ For those Star Wars movie buffs scouring the Tunisian desert in search of Totooi
 
 We created an app where users can search by location and discover which movies and tv series were filmed in that city, if the movie or tv series is in the IMDb Top250, you will be able to view a map with markers around the city.
 
+Use our site! https://reelplaces.herokuapp.com/
+
 <img src="https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=Jest&logoColor=white"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"> <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge"> <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"><img src="https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"> 
 
 ## How to use ReelPlaces
